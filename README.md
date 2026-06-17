@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋Hello Everyone!**
 
-<!--
-**Julia-Mansor/Julia-Mansor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julia, a Business Analyst in Workforce Management with a passion for transforming data into meaningful insights. My professional journey has spanned banking, customer service and workforce operations since 2011, where I've developed a passion for problem-solving, process improvement and data-driven decision making.
 
-Here are some ideas to get you started:
+Beyond work, you'll find me practicing aerial yoga 🧘‍♀️, exploring new destinations ✈️, food hunting and continuously learning new skills 🌱.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Bachelor's Degree in Mass Communication**  
+Universiti Kebangsaan Malaysia (UKM)
+
+## 💼 Current Role
+
+**Business Analyst, Workforce Management** in Maybank
+
+## ✨ Interests
+
+- 📊 Data Analytics & Visualization
+- 🤖 Time Series & Machine Learning
+- ⚙️ Process Improvement
+- 📈 Workforce Management
+- ✈️ Travel & Photography
+- 🧘‍♀️ Aerial Yoga
+
+📫 Let's connect, collaborate and learn together!
