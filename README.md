@@ -1,4 +1,4 @@
-## 👋Hello Everyone!**
+## 👋Hi Everyone!
 
 I'm Julia, a Business Analyst in Workforce Management with a passion for transforming data into meaningful insights. My professional journey has spanned banking, customer service and workforce operations since 2011, where I've developed a passion for problem-solving, process improvement and data-driven decision making.
 
