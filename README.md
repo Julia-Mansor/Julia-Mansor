@@ -20,6 +20,6 @@ Universiti Kebangsaan Malaysia (UKM)
 - ⚙️ Process Improvement
 - 📈 Workforce Management
 - ✈️ Travel & Photography
-- 🧘‍♀️ Aerial Yoga
+- 🧘‍♀️ Aerialist
 
 📫 Let's connect, collaborate and learn together!
