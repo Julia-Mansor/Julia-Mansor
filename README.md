@@ -9,7 +9,7 @@ Beyond work, you'll find me at the gym or in studio practicing aerial yoga, expl
 **Bachelor's Degree in Mass Communication**  
 Universiti Kebangsaan Malaysia (UKM)
 
-**Matriculation Certificate | Life Science**
+**Matriculation Certificate | Life Science**  
 Kolej Matrikulasi Pulau Pinang (KMPP)
 
 ## 💼 Current Role
