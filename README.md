@@ -9,6 +9,9 @@ Beyond work, you'll find me practicing aerial yoga, exploring new destinations, 
 **Bachelor's Degree in Mass Communication**  
 Universiti Kebangsaan Malaysia (UKM)
 
+**Matriculation Certificate | Life Science**
+Kolej Matrikulasi Pulau Pinang (KMPP)
+
 ## 💼 Current Role
 
 **Business Analyst, Workforce Management** in Maybank
